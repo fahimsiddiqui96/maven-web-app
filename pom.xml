@@ -22,7 +22,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-war-plugin</artifactId>
-        <version>3.3.3changedbymaster...</version>
+        <version>3.3.3learningfetch</version>
       </plugin>
     </plugins>
   </build>
